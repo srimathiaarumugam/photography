@@ -1,0 +1,58 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3cqmax;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 2.5rem;
+    margin:3cqmax;
+    color: rgb(47, 13, 106);
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin:3cqmax;
+    color: rgb(239, 238, 240);
+}
+
+img {
+    display: block;
+    border-radius: 25px;
+    padding: 2px;
+    width:min-content;
+    height: fit-content;
+}
+.button {
+    padding: 0.5rem 2rem;
+    border: 1px solid #ccc;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+}
+.caption {
+    padding: 0.8rem;
+    text-align: center;
+}
+
+footer {
+    padding: 2rem 1rem;
+    margin: auto;
+    color: #65039a;
+    font-size:1.2rem;
+}
+
+footer h3 {
+    font-size:1.2rem;
+    margin-bottom: 0;
+}
+
+footer p,a {
+    text-decoration: none;
+    color: rgb(245, 247, 251);
+} 
